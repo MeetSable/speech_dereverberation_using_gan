@@ -1,0 +1,8 @@
+__pycache__
+LibriSpeech
+rirs_noises
+*.pdf
+test.ipynb
+teest.ipynb
+*.pt
+*.wav
